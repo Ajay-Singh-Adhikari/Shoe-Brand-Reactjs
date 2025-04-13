@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": "001",
+      "image": "/images/1.jpg",
+      "company": "Adidas",
+      "item_name": "Campus Mens North Plus Running Shoes",
+      "current_price": "2999",
+      "original_price": "12999",
+      "discount_percentage": "60",
+      "rating": { "stars": 4.2, "count": 388 },
+      "return_period": "14",
+      "delivery_date": "15/05/2025"
+    },
+    {
+      "id": "002",
+      "image": "/images/2.jpg",
+      "company": "Adidas",
+      "item_name": "Red Tape Mens Slip Resistance Walking Shoes",
+      "current_price": "2999",
+      "original_price": "12999",
+      "discount_percentage": "30",
+      "rating": { "stars": 4.2, "count": 388 },
+      "return_period": "14",
+      "delivery_date": "15/05/2025"
+    },
+    {
+      "id": "003",
+      "image": "/images/3.jpg",
+      "company": "Adidas",
+      "item_name": "Red Tape Mens Lace Up Round Toe Sneakers",
+      "current_price": "2999",
+      "original_price": "12999",
+      "discount_percentage": "30",
+      "rating": { "stars": 4.2, "count": 388 },
+      "return_period": "14",
+      "delivery_date": "15/05/2025"
+    },
+    {
+      "id": "004",
+      "image": "/images/4.jpg",
+      "company": "Adidas",
+      "item_name": "HRX by Hrithik Roshan Mens Running Shoes",
+      "current_price": "2999",
+      "original_price": "12999",
+      "discount_percentage": "30",
+      "rating": { "stars": 4.2, "count": 388 },
+      "return_period": "14",
+      "delivery_date": "15/05/2025"
+    },
+    {
+      "id": "005",
+      "image": "/images/5.jpg",
+      "company": "Adidas",
+      "item_name": "ASICS Unisex Gel-Kayano 14 Sneakers",
+      "current_price": "2999",
+      "original_price": "12999",
+      "discount_percentage": "30",
+      "rating": { "stars": 4.2, "count": 388 },
+      "return_period": "14",
+      "delivery_date": "15/05/2025"
+    }
+  ]
+}
